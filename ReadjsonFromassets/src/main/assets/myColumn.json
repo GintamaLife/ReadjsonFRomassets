@@ -1,0 +1,81 @@
+{
+ "code": "000000",
+    "msg": "处理数据成功",
+     "data":{
+    "myColumn":[
+    {
+"columnId":1,
+"columnName":"直播"
+
+},
+ {
+"columnId":2,
+"columnName":"热点"
+
+},
+ {
+"columnId":3,
+"columnName":"患者教育"
+
+},
+ {
+"columnId":4,
+"columnName":"继续教育"
+
+},
+{
+"columnId":5,
+"columnName":"医学人文"
+
+},
+{
+"columnId":6,
+"columnName":"栏目1"
+
+},
+{
+"columnId":7,
+"columnName":"栏目2"
+
+}
+],
+ "moreColumn":[
+    {
+"columnId":1,
+"columnName":"直播"
+
+},
+ {
+"columnId":2,
+"columnName":"热点"
+
+},
+ {
+"columnId":3,
+"columnName":"患者教育"
+
+},
+ {
+"columnId":4,
+"columnName":"继续教育"
+
+},
+{
+"columnId":5,
+"columnName":"医学人文"
+
+},
+{
+"columnId":6,
+"columnName":"栏目1"
+
+},
+{
+"columnId":7,
+"columnName":"栏目2"
+
+}
+]
+}
+
+}

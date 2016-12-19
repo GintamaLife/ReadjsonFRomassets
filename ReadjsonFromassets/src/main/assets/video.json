@@ -1,0 +1,54 @@
+{
+ "systime": "20161215151928167",
+ "data": {
+  "authorType": 1,
+  "updatetime": "20161202113129000",
+  "status": 1,
+  "isStore": 0,
+  "bigPicture": "20161109140355365.jpg",
+  "readCount": "1006",
+  "avatar": "https://api.yibaomd-dev.com/File/DoctorDownLoad.do?fileName=20160106155831601.jpg",
+  "orgName": "",
+  "commentCount": 0,
+  "type": 1,
+  "date": "2016-12-02",
+  "articleId": 278,
+  "authorId": 185201314,
+  "createtime": "20161109140348000",
+  "content": "27820161205161309",
+  "title": "发送到",
+  "price": "0",
+  "titlePicture": "20161109140355749.jpg",
+  "description": "",
+  "authorName": "罗大夫",
+  "prideCount": 167,
+  "storeCount": 0,
+  "otherList": [
+   {
+    "title": "防守打法",
+    "titlePicture": "null",
+    "readCount": "799",
+
+    "authorName": "罗大夫",
+    "avatar": "https://api.yibaomd-dev.com/File/DoctorDownLoad.do?fileName=20160106155831601.jpg",
+    "orgName": "",
+    "articleId": 279
+   }
+  ],
+
+  "commentList": [
+   {
+    "content": "红",
+    "createtime": "20161112124337000",
+    "userId": 185202272,
+    "prideCount": 0,
+    "userName": "某某",
+    "avatar": "https://api.yibaomd-dev.com/File/PatientDownLoad.do?fileName=185202272/454a91ba-2b9f-483c-81db-743938c2505a-2924150_150.png",
+    "userType": 0
+   }
+  ]
+
+ },
+ "code": "000000",
+ "msg": "处理数据成功"
+}

@@ -1,0 +1,55 @@
+{
+ "code": "000000",
+    "msg": "处理数据成功",
+     "data":{
+
+
+     "articleId":123456,
+     "title":"演员的自我修养",
+     "titlePicture":"http://a.hiphotos.baidu.com/image/pic/item/b3fb43166d224f4a58fcfc540ef790529822d114.jpg",
+     "bigPicture":"http://a.hiphotos.baidu.com/image/pic/item/b3fb43166d224f4a58fcfc540ef790529822d114.jpg",
+     "readCount":10,
+     "prideCount":5,
+     "commentCount":1,
+     "storeCount":1,
+     "isStore":1,
+     "type":1,
+     "price":"25",
+     "date":"20161103",
+     "description":"不转不是中国人",
+     "content":"abcdefg",
+     "authorId":1234567890,
+     "authorType":1,
+    "authorName" :"李医生",
+     "avatar" :"http://a.hiphotos.baidu.com/image/pic/item/b3fb43166d224f4a58fcfc540ef790529822d114.jpg",
+      "createtime" :"20161025153511005",
+       "updatetime" :"20161025153511005",
+        "status" :0,
+        "otherList" :[
+        {
+         "articleId":123456,
+             "title":"演员的自我修养",
+             "titlePicture":"http://a.hiphotos.baidu.com/image/pic/item/b3fb43166d224f4a58fcfc540ef790529822d114.jpg",
+             "readCount":10,
+            "authorName" :"李医生",
+             "avatar" :"http://a.hiphotos.baidu.com/image/pic/item/b3fb43166d224f4a58fcfc540ef790529822d114.jpg"
+
+        }
+
+        ],
+        "commentlist":[
+        {
+        "userId":2014587,
+        "userType":0,
+        "userName":"键盘侠",
+        "avatar":"http://a.hiphotos.baidu.com/image/pic/item/b3fb43166d224f4a58fcfc540ef790529822d114.jpg",
+        "createtime":"20161025153511005",
+"prideCount":33,
+"content":"言之有理"
+}
+        ]
+
+}
+
+
+     }

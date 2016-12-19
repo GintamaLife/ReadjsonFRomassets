@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:focusable="true"
+    android:padding="5dp"
+    android:clickable="true"
+    android:background="?android:attr/selectableItemBackground"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/title"
+        android:textSize="16dp"
+        android:textStyle="bold"
+        android:layout_alignParentTop="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/category_name"
+        android:layout_below="@id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_below="@+id/category_name"
+        android:id="@+id/pubDate"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+  <ImageView
+      android:visibility="gone"
+      android:src="@drawable/iv_mystore"
+      android:layout_below="@id/pubDate"
+      android:id="@+id/myimage"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content" />
+
+    <View
+        android:visibility="gone"
+        android:layout_below="@+id/pubDate"
+        android:paddingTop="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/colorAccent"></View>
+
+</RelativeLayout>
+
+</LinearLayout>
